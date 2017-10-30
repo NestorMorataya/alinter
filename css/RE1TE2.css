@@ -1,0 +1,105 @@
+#calendario
+{
+    position: absolute;
+	float: left;
+	width: 16%;
+	height:75px;
+	margin-left: 37%;
+	margin-top: 3%;
+	background: white;
+	top: 350px;
+	left: 0px;
+	background: #E6E6E6;
+ 
+}
+
+
+#calendario label
+{
+	color: black;
+}
+#fechas
+{
+	position: absolute;
+   top:0px;
+   left: 100px;
+}
+
+
+
+
+#fecha
+{
+   position: absolute;
+   top:235px;
+   left: 150px;
+
+}
+#numero
+{
+	 position: absolute;
+   top:235px;
+   left: 1050px;
+
+}
+#facu
+{
+position: absolute;
+   top:235px;
+   left: 600px;
+
+}
+#RE1 {
+
+	position: absolute;
+   top:300px;
+   left: 350px;
+   text-align: center;
+}
+#tabla
+{
+	width:50%;
+	height:200px;
+
+
+}
+#tabla table
+{      position: absolute;
+	  width:50%;
+	height:25px;
+	top:475px;
+   left: 350px;
+}
+#btnbuscar
+{
+	position: relative;
+	top:100px;
+   left: 650px;
+}
+#RT2
+{
+position: absolute;
+   top:300px;
+   left: 220px;
+   text-align: center
+}
+
+#btnbuscar2
+{
+	position: relative;
+	top:100px;
+   left: 650px;
+}
+#mensaje
+{
+	position: relative;
+	top:100px;
+   left: 250px;
+}
+#RT4
+{
+position: absolute;
+   top:300px;
+   left: 300px;
+   text-align: center
+}
